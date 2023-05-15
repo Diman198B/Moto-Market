@@ -14,9 +14,9 @@ git clone https://github.com/Diman198B/Moto-Market.git
 2. Install Node.js and npm on your PC (If not installed).
 ```
 3. npm install - Install required packages.
-4. npm run dev - Get compiled project files for "Developer" mode.
+4. npm run start - Get compiled project files for "Developer" mode,
+                   and tracking changes on the local server localhost:3000.
    npm run build - Get compiled project files for production mode.
-5. npm start - Compiling the project and tracking changes on the local server localhost:3000.
 ```
 ## Troubleshooting:
 The application is designed for devices with a screen width of 1280px.
@@ -45,9 +45,9 @@ git clone https://github.com/Diman198B/Moto-Market.git
 2. Установите себе на ПК Node.js и npm (Если не установлены).
 ```
 3. npm install - Установка необходимых пакетов.
-4. npm run dev - Получение скомпилированных файлов проекта для режима "Разработчика".
+4. npm run start - Получение скомпилированных файлов проекта для режима "Разработчика",
+                   и отслеживание изменений на локальном сервере localhost:3000.
    npm run build - Получение скомпилированных файлов проекта для режима "Продакшн".
-5. npm start - Компиляция проекта и отслеживание изменений на локальном сервере localhost:3000.
 ```
 
 ## Диагностика:
